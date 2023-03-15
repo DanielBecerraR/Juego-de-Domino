@@ -1,0 +1,15 @@
+C:\Users\d.becerra\Desktop\Daniel - pr\Domino\Persistence\bin\Debug\net5.0\Persistence.deps.json
+C:\Users\d.becerra\Desktop\Daniel - pr\Domino\Persistence\bin\Debug\net5.0\Persistence.runtimeconfig.json
+C:\Users\d.becerra\Desktop\Daniel - pr\Domino\Persistence\bin\Debug\net5.0\Persistence.runtimeconfig.dev.json
+C:\Users\d.becerra\Desktop\Daniel - pr\Domino\Persistence\bin\Debug\net5.0\Persistence.dll
+C:\Users\d.becerra\Desktop\Daniel - pr\Domino\Persistence\bin\Debug\net5.0\Persistence.pdb
+C:\Users\d.becerra\Desktop\Daniel - pr\Domino\Persistence\obj\Debug\net5.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\d.becerra\Desktop\Daniel - pr\Domino\Persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.becerra\Desktop\Daniel - pr\Domino\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\d.becerra\Desktop\Daniel - pr\Domino\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+C:\Users\d.becerra\Desktop\Daniel - pr\Domino\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\d.becerra\Desktop\Daniel - pr\Domino\Persistence\obj\Debug\net5.0\Persistence.dll
+C:\Users\d.becerra\Desktop\Daniel - pr\Domino\Persistence\obj\Debug\net5.0\refint\Persistence.dll
+C:\Users\d.becerra\Desktop\Daniel - pr\Domino\Persistence\obj\Debug\net5.0\Persistence.pdb
+C:\Users\d.becerra\Desktop\Daniel - pr\Domino\Persistence\obj\Debug\net5.0\Persistence.genruntimeconfig.cache
+C:\Users\d.becerra\Desktop\Daniel - pr\Domino\Persistence\obj\Debug\net5.0\ref\Persistence.dll
